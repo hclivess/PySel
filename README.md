@@ -11,4 +11,4 @@ A simple Selenium Loadtester written in Python
 - Multiple websites can be separated by semicolons
 - Multiple elements can be separated by semicolons
 
-![alt text](https://github.com/hclivess/pysel/blob/master/pysel.png)
+![alt text](https://github.com/hclivess/pysel/blob/master/pysel.PNG)
